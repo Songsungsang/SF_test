@@ -6,4 +6,3 @@ I am learning git
 저는 고양이를 좋아합니다.
 
 New message
-Newer message
